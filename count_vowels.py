@@ -1,3 +1,4 @@
+#a counting vowel 
 def fun(word):
     lis=[]
     vow=['a','e','i','o','u']
