@@ -4,7 +4,7 @@ while True:
          a=int(input('enter the first number: '))
          b=int(input('enter the second number: '))
          print("Choose 1 for addition")
-         print("Choose 2 for substraction")
+         print("Choose 2 for substraction function")
          print("Choose 3 for multiplication")
          print("Choose 4 for division")
          print("Enter 5 for quit  the calculator")
