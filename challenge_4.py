@@ -1,3 +1,4 @@
+# Return true if one of them is 10 or their sum is 10
 def sum():
     a=int(input('Enter first number:'))
     b=int(input('Enter second number:'))
